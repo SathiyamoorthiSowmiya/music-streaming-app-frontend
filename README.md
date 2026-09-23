@@ -2,6 +2,12 @@
 
 React frontend for a full-stack MERN music streaming application.
 
+🎵 **Live App**: https://musicstreaming-app.netlify.app/
+🔗 **Live API**: https://music-streaming-app-backend-2vly.onrender.com
+💻 **Backend Repo**: https://github.com/SathiyamoorthiSowmiya/music-streaming-app-backend
+
+> Backend is hosted on Render's free tier — the server sleeps after inactivity, so the first load after a while may take 30-50s while it wakes up.
+
 ## Tech Stack
 
 - React (Vite)
