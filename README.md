@@ -2,7 +2,7 @@
 
 React frontend for a full-stack MERN music streaming application.
 
-🎵 **Live App**: https://musicstreaming-app.netlify.app/
+🎵 **Live App**: https://music-streaming-app-frontend-ten.vercel.app/
 🔗 **Live API**: https://music-streaming-app-backend-2vly.onrender.com
 💻 **Backend Repo**: https://github.com/SathiyamoorthiSowmiya/music-streaming-app-backend
 
